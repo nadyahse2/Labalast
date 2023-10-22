@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    
+}
+
+
+.container{
+    margin: 0px 10px;
+}
+.header {
+    background-image: url(bg2.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+.header-line{
+    padding-top: 13px;
+    display: flex;
+    align-items: center;
+
+    justify-content:space-around;
+
+
+}
+
+.nav-item{
+    color: #FFF;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Tinos', serif;
+    font-size: 25px;
+    margin-right: 170px;
+    transition: color 0.3s linear;
+}
+
+.nav-item:hover{
+    color: rgb(118, 111, 198);
+}
+.text{
+    color: #3C4BD4;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Tinos', serif;
+    font-size: 100px;
+    font-weight:bolder;
+    margin-right: 170px;
+}
