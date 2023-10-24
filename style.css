@@ -20,8 +20,6 @@ body{
     align-items: center;
 
     justify-content:space-around;
-
-
 }
 
 .nav-item{
@@ -50,8 +48,17 @@ body{
     margin-top: 30px
     
 }
-.prog{
-    font-size: 50px
+.prog:hover{
+    opacity:.50;
 }
 
+.linal:hover{
+    opacity: .50
+}
+.matan:hover{
+    opacity: .50
+}
+.diskra:hover{
+    opacity: .50
+}
 
