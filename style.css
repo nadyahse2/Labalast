@@ -26,10 +26,9 @@ body{
     color: #FFF;
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
-    font-family: 'Open Sans', sans-serif;
-    font-family: 'Tinos', serif;
+
     font-size: 20px;
-    margin-right: 150px;
+    margin-right: 130px;
     transition: color 0.3s linear;
 }
 
@@ -40,8 +39,6 @@ body{
 .text{
     color: #3C4BD4;
     font-family: 'Montserrat', sans-serif;
-    font-family: 'Open Sans', sans-serif;
-    font-family: 'Tinos', serif;
     font-size: 80px;
     font-weight:900;
     text-align: center;
@@ -61,4 +58,5 @@ body{
 .diskra:hover{
     opacity: .50
 }
+
 
