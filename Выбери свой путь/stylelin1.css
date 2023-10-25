@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    overflow: hidden;
+}
+.container{
+    margin: 0px 10px;
+}
+.header {
+    background-image: url(bg2.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+.header-line{
+    padding-top: 5px;
+    display: flex;
+    align-items: center;
+
+    justify-content:space-around;
+}
+.title{
+    color: #FFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight:100;
+    position: relative; left: -430px;
+    
+}
+.topic{
+    align-items: center;
+}
+.topic1{
+    color: #2E3AA5;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    font-weight:900;
+    position: relative; left:130px;
+    position: relative; top: 20px
+}
+
+
+ 
